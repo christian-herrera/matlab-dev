@@ -14,6 +14,11 @@
 
 Este repo es un bunker de Scripts, funciones y clases que utilizo en las diversas asignaturas de la Facultad de Ingeniería UNLP. La mayoría de los mismos se desarrollan en MatLab R2023b.
 
+<br>
+
+## Scripts
+- [Sistemas Digitales/Tabla_Verdad](Sistemas%20Digitales/Tabla_Verdad/Tabla_Verdad.m)
+
 <br><br>
 
 ## Referencias
