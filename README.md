@@ -20,6 +20,7 @@ Este repo es un bunker de Scripts, funciones y clases que utilizo en las diversa
 - [Teoria de Circuitos I/*](Teoria%20de%20Circuitos%20I/README.md)
 - [Sistemas Digitales/Tabla_Verdad](Sistemas%20Digitales/Tabla_Verdad/Tabla_Verdad.m)
 - [Control Automatico I/ControlClasico](Control%20Automatico%20I/README.md)
+- [Electrónica General](Electronica%20General/CH_Electronic_Methods.m)
 
 <br><br>
 
